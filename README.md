@@ -1,5 +1,8 @@
 ### Hey Now!! 👋
 
+Hey Now!! I am a recent graduate of AppAcademy. I am a Full-Stack Software Engineer with an extensive background in the construction field. I am looking forward to applying my aptitude for project design and organization to building apps and services that make people's lives better.
+
+
 <!--
 **AppBK/AppBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
