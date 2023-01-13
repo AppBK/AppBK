@@ -1,4 +1,4 @@
-### Hey Now!! 👋
+## Hey Now!! 👋
 
 I am a recent graduate of App Academy. I am a Full-Stack Software Engineer with an extensive background in the construction field. I am looking forward to applying my aptitude for project design and organization to building apps and services that make people's lives better.
 
