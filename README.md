@@ -1,4 +1,7 @@
 ## Hey Now!! 👋
+![hey-now](https://github.com/AppBK/AppBK/assets/107947798/4885f31d-af5c-49b9-984f-d3cc107e39e2)
+
+
 
 I am a recent graduate of App Academy. I am a Full-Stack Software Engineer ready to leverage my extensive background in project design and organization to build apps and services that make people's lives better.
 
