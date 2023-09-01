@@ -3,7 +3,7 @@
 
 
 I am Full-Stack Software Engineer, currently working in the capacity of a Teaching Assistant at App Academy Online for the Full-Time program.
-In my free time I enjoy... doing even MORE work! Currently digging into Rust, DevOps and HTTP/2. 
+In my free time I enjoy... doing even MORE work! Currently digging into Rust and HTTP/2.
 
 <!--
 **AppBK/AppBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
