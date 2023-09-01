@@ -2,10 +2,8 @@
 ![hey-now](https://github.com/AppBK/AppBK/assets/107947798/4885f31d-af5c-49b9-984f-d3cc107e39e2)
 
 
-
-I am a recent graduate of App Academy. I am a Full-Stack Software Engineer ready to leverage my extensive background in project design and organization to build apps and services that make people's lives better.
-
-I am currently working on polishing up my capstone project, <a href="https://sweetwafer.onrender.com">Sweetwafer</a>, which is an e-commerce site modeled after the Sweetwater website!
+I am Full-Stack Software Engineer, currently working in the capacity of a Teaching Assistant at App Academy Online for the Full-Time program.
+In my free time I enjoy... doing even MORE work! Currently digging into Rust, DevOps and HTTP/2. 
 
 <!--
 **AppBK/AppBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
